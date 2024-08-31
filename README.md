@@ -4,8 +4,8 @@ Make something meaningful!
 ## what is this
 For the last few hours of Arcade, we want to have as much fun as we can and work on something together. That's why we created this repo!
 
-## what should i make
-There's probably gonna be some people discussing it in the Slack server. When somebody decides what to work on, join them and help them out!
+**We decided on making a page of all of your amazing projects. Think r/place, but for all the things we've cooked up during arcade!
 
-## the only rule
-The project must be in Python or Javascript, as those are languages that almost everybody who knows programming is familiar with.
+## how do i contribute??
+If you made ANYTHING during arcade (games, art, CAD, IRL projects, literally anything), you're free to open a PR on this repo and add it to index.html
+**Be creative!** Don't just add images. For example, if you made a game, try including a live, playable demo of it. Add as many things as you can, we want that page full of ships!!
